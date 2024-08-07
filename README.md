@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Passionate+Full+Stack+Developer;QA+Engineer+for+nearly+2+years;Open+to+opportunities)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Passionate+Full+Stack+Developer;Freelance+Developer;Open+to+opportunities)
 
 # 💻 Passionate Full Stack Developer
 🌱 I worked as a Freelancer
