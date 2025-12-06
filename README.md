@@ -30,10 +30,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=belicks1999&show_icons=true&theme=radical)
+![My Github Status](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=belicks1999&show_icons=true&theme=radical)
 
 ## Top Used Language
-![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=belicks1999&layout=compact&theme=radical)
+![Top Used Language](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=belicks1999&layout=compact&theme=radical)
 
 ## Eager to learn
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
